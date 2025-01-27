@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276641194795",
+    "project_id": "bilalapp-c6b7f",
+    "storage_bucket": "bilalapp-c6b7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276641194795:android:ff74d479ab0b78f93c9b6e",
+        "android_client_info": {
+          "package_name": "com.bilal.bilal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0PLQfKFo7Qsbj_D3qDDO2OaROgo62kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
