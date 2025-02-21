@@ -129,12 +129,12 @@ class _HomePageState extends State<HomePage>
                                 description: 'Tapis en laine fait main',
                               ),
                               WidgetProduct(
-                                imagePath: 'assets/images/tapis.jpg',
+                                imagePath: 'assets/images/tapis01.jpg',
                                 price: '45€',
                                 description: 'Tapis artisanal en coton',
                               ),
                               WidgetProduct(
-                                imagePath: 'assets/images/tapis.jpg',
+                                imagePath: 'assets/images/tapisss.jpg',
                                 price: '55€',
                                 description: 'Tapis coloré fait main',
                               ),
@@ -144,7 +144,7 @@ class _HomePageState extends State<HomePage>
                           ListView(
                             children: const [
                               WidgetProduct(
-                                imagePath: 'assets/images/bracelet.jpg',
+                                imagePath: 'assets/images/bracelet01.jpg',
                                 price: '20€',
                                 description: 'Bracelet artisanal en cuir',
                               ),
